@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="TestNinja.UnitTests/TestNinja.UnitTests.csproj" />
+  <Project Path="TestNinja/TestNinja.csproj" />
+</Solution>
